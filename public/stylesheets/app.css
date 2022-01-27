@@ -10,13 +10,13 @@ body {
     background-color: white;
     padding: 16px;
   }
-  .my-class:hover {
-    color: red;
+  
   }
   a.photo{
     transition: padding 0.5s;
   }
   a.photo:hover{
+    color: red;
     padding: 10px;
   }
   #my-unique-id { }
